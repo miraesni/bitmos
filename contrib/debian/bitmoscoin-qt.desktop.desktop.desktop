@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitmosCoin
+Comment=BitmosCoin P2P Cryptocurrency
+Exec=bitmoscoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitmoscoin128
+MimeType=x-scheme-handler/bitmoscoin;
+Categories=Office;Finance;
+Name[ru]=bitmoscoin-qt.desktop.desktop
