@@ -260,7 +260,7 @@ static void secp256k1_scalar_inverse(secp256k1_scalar_t *r, const secp256k1_scal
     secp256k1_scalar_mul(t, t, &x3); /* 111 */
     for (int i=0; i<9; i++) /* 0 */
         secp256k1_scalar_sqr(t, t);
-    secp256k1_scalar_mul(t, t, &x8); /* 9777111 */
+    secp256k1_scalar_mul(t, t, &x8); /* 11111111 */
     for (int i=0; i<2; i++) /* 0 */
         secp256k1_scalar_sqr(t, t);
     secp256k1_scalar_mul(t, t, x); /* 1 */
@@ -299,7 +299,7 @@ static void secp256k1_scalar_inverse(secp256k1_scalar_t *r, const secp256k1_scal
     secp256k1_scalar_mul(t, t, x); /* 1 */
     for (int i=0; i<8; i++) /* 00 */
         secp256k1_scalar_sqr(t, t);
-    secp256k1_scalar_mul(r, t, &x6); /* 97771 */
+    secp256k1_scalar_mul(r, t, &x6); /* 111111 */
 }
 
 static void secp256k1_scalar_inverse_var(secp256k1_scalar_t *r, const secp256k1_scalar_t *x) {

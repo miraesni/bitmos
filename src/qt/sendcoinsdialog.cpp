@@ -41,6 +41,10 @@ SendCoinsDialog::SendCoinsDialog(QWidget* parent) : QDialog(parent),
 //tmp
 ui->checkUseObfuscation->setVisible(false);
 
+//addbutton, clearbutton -> visible false 
+ui->addButton->setVisible(false);
+ui->clearButton->setVisible(false);
+
 #ifdef Q_OS_MAC // Icons on push buttons are very uncommon on Mac
     ui->addButton->setIcon(QIcon());
     ui->clearButton->setIcon(QIcon());

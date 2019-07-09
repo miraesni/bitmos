@@ -3536,8 +3536,8 @@ https://www.transifex.com/bitmoscoin-project/bitmoscoin-project-translations</tr
         <translation>Você deve especificar uma masternodeprivkey na configuração. Favor verificar o manual para obter ajuda.</translation>
     </message>
     <message>
-        <source>(9777 could be used only on mainnet)</source>
-        <translation>(9777 could be used only on mainnet)</translation>
+        <source>(11111 could be used only on mainnet)</source>
+        <translation>(11111 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3548,8 +3548,8 @@ https://www.transifex.com/bitmoscoin-project/bitmoscoin-project-translations</tr
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 9777 for mainnet)</source>
-        <translation>(deve ser 9777 para mainnet)</translation>
+        <source>(must be 11111 for mainnet)</source>
+        <translation>(deve ser 11111 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>

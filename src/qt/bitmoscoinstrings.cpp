@@ -206,10 +206,10 @@ QT_TRANSLATE_NOOP("bitmoscoin-core", ""
 QT_TRANSLATE_NOOP("bitmoscoin-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("bitmoscoin-core", "(9777 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("bitmoscoin-core", "(11111 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("bitmoscoin-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("bitmoscoin-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("bitmoscoin-core", "(must be 9777 for mainnet)"),
+QT_TRANSLATE_NOOP("bitmoscoin-core", "(must be 11111 for mainnet)"),
 QT_TRANSLATE_NOOP("bitmoscoin-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("bitmoscoin-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("bitmoscoin-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

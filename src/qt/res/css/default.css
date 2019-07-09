@@ -1,4 +1,4 @@
-/**************************************Vrcoin**********************************************/
+/**************************************BitmosCoin**********************************************/
 /****************************************************************************************/
                     /*************** GLOBAL STYLE*****************/
                     /*
@@ -706,7 +706,7 @@
 
 
 
-         QWidget .QPushButton#blabel_Vrcoin {
+         QWidget .QPushButton#blabel_BitmosCoin {
             background-color: transparent;
             border:0;
             border-radius:0px;
@@ -741,7 +741,7 @@
      }
 
 
-     QWidget .QFrame#frame_blue .QLabel#label_Vrcoin2 { /*Vrcoin */
+     QWidget .QFrame#frame_blue .QLabel#label_BitmosCoin2 { /*BitmosCoin */
         background-color:transparent;
         color:rgb(255, 255, 255);
         font-size:15px;
@@ -759,7 +759,7 @@
         font-size:30px;
      }
 
-     QWidget .QFrame#frame_blue .QLabel#label_Vrcoin3 { /*Vrcoin */
+     QWidget .QFrame#frame_blue .QLabel#label_BitmosCoin3 { /*BitmosCoin */
         background-color:transparent;
         color:rgb(255, 255, 255);
         font-size:15px;
@@ -779,7 +779,7 @@
      }
 
 
-     QWidget .QFrame#frame_blue .QLabel#label_Vrcoin4 { /*Vrcoin */
+     QWidget .QFrame#frame_blue .QLabel#label_BitmosCoin4 { /*BitmosCoin */
         background-color:transparent;
         color:rgb(255, 255, 255);
         font-size:15px;
@@ -2158,7 +2158,7 @@
     border:0;
     }
 
-    /* About Vrcoin Dialog */
+    /* About BitmosCoin Dialog */
     QDialog#AboutDialog QLabel#label, QDialog#AboutDialog QLabel#copyrightLabel, QDialog#AboutDialog QLabel#label_2 { /* About Bulwark Contents */
     margin-left:10px;
     }
